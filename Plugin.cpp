@@ -11,7 +11,7 @@ void Plugin::Initialize(IBaseInterface* pInterface, PluginInfo& info)
 
 	//Bit information about the plugin
 	//Please fill this in!!
-	info.BotName = "BotNameTEST";
+	info.BotName = "AndriesGeens";
 	info.Student_FirstName = "Foo";
 	info.Student_LastName = "Bar";
 	info.Student_Class = "2DAEx";
@@ -161,7 +161,7 @@ SteeringPlugin_Output Plugin::UpdateSteering(float dt)
 	m_UseItem = false;
 	m_RemoveItem = false;
 
-	steering.LinearVelocity = Elite::Vector2(5.0f, 0.0f);
+	steering.LinearVelocity = Elite::Vector2(10.0f, 0.0f);
 
 	return steering;
 }
