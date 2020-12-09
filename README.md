@@ -6,4 +6,4 @@ The aim of this project is to create an artificial brain for an agent that trave
 * Aim and shoot zombies
 * Try to survive as long as possible
 
-![Your all awesome!](https://tenor.com/view/thanks-awesome-gif-14611487)
+![Your all awesome!](https://i.gifer.com/origin/16/162b41786d99b9d7e7b03549c4e19ae2_w200.gif)
